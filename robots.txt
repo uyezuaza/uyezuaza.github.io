@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uyezuaza.github.io/LWk/sitemap_index.txt
+Sitemap: https://uyezuaza.github.io/tyJ/sitemap_index.txt
+Sitemap: https://uyezuaza.github.io/wIL/sitemap_index.txt
+Sitemap: https://uyezuaza.github.io/xKM/sitemap_index.txt
